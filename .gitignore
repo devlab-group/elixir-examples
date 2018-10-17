@@ -1,0 +1,8 @@
+/bake_modules/
+*/node_modules/
+*/deps/
+*/.mix/
+*/data/
+*/_build/
+.mix
+**/Mnesia.nonode@nohost/
